@@ -2,8 +2,6 @@
 
 > Revision notes on how Python objects behave when we try to change them.
 
-**Lecture:** [Immutable and Mutable in Python](https://youtu.be/MDZ4y-GgZ8k?si=Un6nt-stXt01GUKw)
-
 ---
 
 ## 1. The Core Idea
